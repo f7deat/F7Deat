@@ -10,15 +10,14 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
+const data = {
     code: ["Javascript", "Typescript", ".Net", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography", "Draw"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
             js: ["Vue", "Reactjs", "Angular", "AngularJs"],
-            css: ["materialize", "bootstrap"]
+            css: ["materialize", "bootstrap", "Tailwind", "SCSS"]
         },
         backEnd: {
             "node", "php", ".Net"
@@ -28,7 +27,7 @@ const anmol = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp", "Heroku"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "As long as your remember me, you are not alone"
 };
 ```
 
