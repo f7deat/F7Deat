@@ -22,9 +22,8 @@ const data = {
         backEnd: {
             "node", "php", ".Net"
         },
-        devOps: ["AWS", "Docker🐳", "Azure", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "SQL Server", "Redis", "Elasticsearch"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp", "Heroku"]
+        databases: ["MySql", "SQL Server", "Redis", "Elasticsearch"],
+        misc: ["Firebase", "selenium", "Heroku"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     funFact: "As long as your remember me, you are not alone"
