@@ -3,9 +3,9 @@
 <p><em>Freelancer Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/f7deat?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/f7deat?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=f7deat)
+![Twitter Follow](https://img.shields.io/twitter/follow/f7deat?style=social)
+![GitHub followers](https://img.shields.io/github/followers/f7deat?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/f7deat?style=social)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
