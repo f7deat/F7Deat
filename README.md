@@ -1,5 +1,5 @@
-<h2>Xin chào (Hi)🙏🏻, I'm Dinh Cong Tan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+Hi, I'm Dinh Cong Tan! <img src="https://i.pinimg.com/originals/9f/43/a6/9f43a6663115cffaf06cf98f2cd0e2da.gif" width="50">
+<img align='right' src="https://i.pinimg.com/originals/05/ae/2c/05ae2c2dcf55029495d5229223033a69.gif" width="230">
 <p><em>Freelancer Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/f7deat?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/f7deat?style=social)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://i.pinimg.com/originals/27/2e/3e/272e3e55dc180dc021af0a54ee70143f.gif" width="50"> A little more about me...  
 
 ```javascript
 const data = {
@@ -30,10 +30,10 @@ const data = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://i.pinimg.com/originals/07/d6/b9/07d6b9133c6cdb39c6ee7206eeddacc5.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-📊 **This week I spent my time on**
+<img src="https://i.pinimg.com/originals/ab/e1/4b/abe14bb83ab3b6be941a5a182adee0a4.gif" width="50" /> **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 
