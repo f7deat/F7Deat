@@ -1,5 +1,5 @@
 Hi, I'm Dinh Cong Tan! <img src="https://i.pinimg.com/originals/9f/43/a6/9f43a6663115cffaf06cf98f2cd0e2da.gif" width="50">
-<img align='right' src="https://i.pinimg.com/originals/05/ae/2c/05ae2c2dcf55029495d5229223033a69.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/f7deat/f7deat/master/nom-nom.gif" width="230">
 <p><em>Freelancer Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
