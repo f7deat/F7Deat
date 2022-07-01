@@ -33,6 +33,9 @@ const data = {
 <img src="https://i.pinimg.com/originals/07/d6/b9/07d6b9133c6cdb39c6ee7206eeddacc5.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f7deat)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://i.pinimg.com/originals/ab/e1/4b/abe14bb83ab3b6be941a5a182adee0a4.gif" width="50" /> **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
